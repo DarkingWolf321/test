@@ -1,1 +1,1 @@
-print("здоров")
+print("huy")
